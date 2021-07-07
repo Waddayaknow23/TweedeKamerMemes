@@ -9,3 +9,13 @@ margin-left: 1% ;
 .bakellende {
     margin-left: 1%;
 }
+
+body {
+    background: url("tk.jpg");
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
